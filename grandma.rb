@@ -3,7 +3,7 @@ def speak_to_grandma(string)
   if{ string.upcase{
     return "I LOVE YOU TOO PUMKIN!"}}
   else {
-    return 
+    return "HUH?! SPEAK UP, SONNY!"
  end
 
 # Whatever you say to grandma, she should respond with
