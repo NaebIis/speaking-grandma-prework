@@ -5,6 +5,7 @@ def speak_to_grandma(phrase)
    else
     puts "HUH?! SPEAK UP, SONNY!"
   end
+  puts "love"
 end
 
 # Whatever you say to grandma, she should respond with
