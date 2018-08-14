@@ -1,7 +1,9 @@
 def speak_to_grandma(string)
   sting = "I LOVE YOU GRANDMA!"
-  if string.upcase
-    return "I LOVE YOU TOO PUMKIN!"
+  if{ string.upcase{
+    return "I LOVE YOU TOO PUMKIN!"}}
+  else {
+    return 
  end
 
 # Whatever you say to grandma, she should respond with
