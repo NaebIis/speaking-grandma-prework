@@ -1,5 +1,6 @@
 def speak_to_grandmaurn(phrase)
-  if phrase =
+  if phrase == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMKIN!"
 end
 
 # Whatever you say to grandma, she should respond with
