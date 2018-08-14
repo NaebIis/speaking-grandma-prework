@@ -1,4 +1,5 @@
-def speak_to_grandmaurn
+def speak_to_grandmaurn(phrase)
+  
 end
 
 # Whatever you say to grandma, she should respond with
