@@ -1,6 +1,6 @@
 def speak_to_grandma(says)
-  if says = "I love you grandma".upcase
-    return "I love you too pumkin".upcase
+  if says = "I love you grandma"
+    return "I love you too pumkin"
  end
 
 # Whatever you say to grandma, she should respond with
