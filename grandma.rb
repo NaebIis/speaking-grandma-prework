@@ -1,5 +1,5 @@
 def speak_to_grandma(says)
-  if says = "I love you grandma"
+  if says == "I love you grandma"
     return "I love you too pumkin"
  end
 
