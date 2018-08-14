@@ -1,5 +1,6 @@
 def speak_to_grandma
-  puts "I love you too Pumpkin".upper
+  if ("I love you grandma".upper)
+ return puts "I love you too Pumpkin".upper
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
